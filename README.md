@@ -30,6 +30,7 @@ BlogStore, kullanıcıların içerik oluşturabildiği, yorum yapabildiği, kate
   
 ![Görsel3](images/comment_login2.png)
 ![Görsel4](images/commentAdd.jpeg)
+![Görsel5](images/comments.jpeg)
 
 ### 🧠 Yapay Zeka Entegrasyonu
 - İngilizce’ye çevirilen yorum metinleri üzerinden toksik içerik kontrolü
@@ -70,7 +71,6 @@ Bu proje sayesinde aşağıdaki teknik ve pratik becerileri kazandım:
   - ⚠️ Toksik yorum algılama (ToxicBERT)
   - 🌐 Yorum çeviri entegrasyonu (TR → EN)
 - ✅ **Asenkron programlama** (async/await) ile performanslı işlemler gerçekleştirme
-- ✅ **Git ve GitHub** ile versiyon kontrolü sağlama ve açık kaynak proje yönetimi
 
 > 💡 Bu proje; gerçek bir blog sistemi geliştirirken aynı zamanda modern yazılım geliştirme pratiklerini öğrenmemi ve uygulamamı sağladı.
 
